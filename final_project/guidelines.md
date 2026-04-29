@@ -90,14 +90,15 @@ Your proposal will be evaluated on clarity, feasibility, and appropriate scope.
 
 **Required components:**
 * **Link to public GitHub repository** with your work-in-progress
-* **Written statement (~1 page)** addressing:
+* **Written statement (max 1 page)** addressing:
   - Where you are relative to your proposed timeline
   - Any changes to your approach or methods
   - Any challenges you've encountered and how you addressed them
   - Problems you're currently stuck on
   - **If behind schedule:** Specific strategies for catching up (reducing scope, allocating more time, seeking help)
   - **If ahead of schedule:** Proposed extensions or additional features to pursue
-* **Draft of Methods section** of your final report (this can be a rough/incomplete draft and will evolve as you implement your code, but it should include a detailed description of your approach and any algorithms or numerical methods you've implemented so far)
+* **Rough draft of Methods section** of your final report. This can be a rough/incomplete draft and will evolve as you implement your code, but it should include a detailed description of your approach (including any equations!) and the algorithms/numerical methods you will implement.
+    - Note that your final report can be in the form of a LaTex paper or a Jupyter notebook with detailed markup. 
 
 This checkpoint ensures you're making progress and identifies where you might need support.
 
